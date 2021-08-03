@@ -1,5 +1,5 @@
 
-# Guidelines to inquire an undergraduate research experience  with Marine:
+# Guidelines to inquire an undergraduate research experience
 - check out the group website and explore areas of research interest. There are always exciting research that needs to be done, especially with PNSN data!
 - email me at mdenolle@uw.edu
 - set up a in-person meeting
@@ -8,7 +8,7 @@
 
 
 
-# Guidelines to apply for a Ph.D. with Marine:
+# Guidelines to apply for a Ph.D.
 - Contact in the fall before submission.
 - Submit a piece of code you wrote, or an explanation of the contributions you made to a more extensive code
 - Submit a short write up of what makes you passionate about earthquake sciences or seismology
