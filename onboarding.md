@@ -1,5 +1,9 @@
 
 # Guidelines for an undergraduate research experience  with Marine:
+- check out the group website and explore areas of research interest. There are always exciting research that needs to be done
+- email me at mdenolle@uw.edu
+- set up a in-person meeting
+- read the "working contract"
 
 
 
