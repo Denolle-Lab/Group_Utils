@@ -1,4 +1,6 @@
 
+# Guidelines for an undergraduate research experience  with Marine:
+
 
 
 
