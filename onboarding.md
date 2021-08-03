@@ -16,3 +16,10 @@
 - A scientific major in undergraduate/master is required. If the student arrives without the foundations described above, he/she will be expected to take coursework in the graduate program and self-learn with textbooks.
 - Provide a CV, research posters, internship reports, papers
 - Be self-motivated. Ph.D. is a long journey, and you will be the main driver.
+
+
+# To do list
+1. Make a GitHub account and join the Github https://github.com/Denolle-Lab/ organization by asking Marine to add you as a member.
+3. Sync the uwquake google calendar to your google calendar.
+4. Join the slack workspace uwquake.slack.com
+5. Copy, fill out, rename (yourname_bio.docx) the [google doc](https://docs.google.com/document/d/1l1w47Ga_eAaSgGNkMaOQZW2ms9QPDnBx5jgjdtOEzYg/edit) with your contact information and brief bio to be shared among group members and used for the group website.
