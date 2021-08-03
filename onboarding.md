@@ -23,3 +23,9 @@
 3. Sync the uwquake google calendar to your google calendar.
 4. Join the slack workspace uwquake.slack.com
 5. Copy, fill out, rename (yourname_bio.docx) the [google doc](https://docs.google.com/document/d/1l1w47Ga_eAaSgGNkMaOQZW2ms9QPDnBx5jgjdtOEzYg/edit) with your contact information and brief bio to be shared among group members and used for the group website.
+6. connect to the Denolle Lab Gdrive:
+  * Click the "Shared with Me" link on the left.
+  * Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
+
+
+credits to Malin Pinsky for his open access group guidelines!
