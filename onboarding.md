@@ -18,7 +18,7 @@
 - Be self-motivated. Ph.D. is a long journey, and you will be the main driver.
 
 
-# To do list
+# To do list for incoming group members
 1. Make a GitHub account and join the Github https://github.com/Denolle-Lab/ organization by asking Marine to add you as a member.
 3. Sync the uwquake google calendar to your google calendar.
 4. Join the slack workspace uwquake.slack.com
@@ -26,6 +26,7 @@
 6. connect to the Denolle Lab Gdrive:
   * Click the "Shared with Me" link on the left.
   * Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
+7. Read, comment, and agree upon the working contract
 
 
 credits to Malin Pinsky for his open access group guidelines!
