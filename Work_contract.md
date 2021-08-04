@@ -7,7 +7,7 @@ My overall philosophy of advising is that students and postdocs should expect fr
 
 
 # Expectations during the PhD:
- ## 1. for Year 1 of Ph.D. (GS):
+ ## 1. Year 1 of Ph.D. (GS):
 - I highly recommend starting research the summer before the program start date to 1) review literature, 2) set up computing tools, 3) get familiar with the data, 4) transition to grad school. This prep time may not be necessary if the prospective student already researched seismology somewhat related to the Ph.D. research.
 - Pursue in parallel both coursework and research. Coursework is chosen to complement the skills and bring breadth.
 - Research is expected to move forward with a bi-annual presentation to the research group: some literature review, some basic coding.
@@ -16,14 +16,14 @@ My overall philosophy of advising is that students and postdocs should expect fr
 - GS should aim to submit Ph.D. fellowship applications to NSF (Fall of that year)
 - Grades do not matter much to me, except for C+ and B- in easy quantitative classes where GS and I will discuss a plan of action to make sure these skills are learned.
 
-## 2. Expectations for Year 2 of Ph.D. (GS):
+## 2. Year 2 of Ph.D. (GS):
 - Limited coursework 
 - Meet in October-November to brainstorm on the Ph.D. story.
 - Submit quals plan by December: this should outline what you expect the Ph.D. story and its chapters should be.
 - The research project is expected to come to a draft of publication by quals time.
 - Summer post quals should be dedicated to the submission of the first paper. The paper should be submitted by the end of the summer.
 
-## 3. Expectations for Year 3-4 of Ph.D. (GS):
+## 3. Year 3-4 of Ph.D. (GS):
 - Work on the second project
 - Almost zero or very limited coursework
 - Expected submission of papers #2 and #3 or made substantial progress toward both of them.
@@ -32,7 +32,7 @@ My overall philosophy of advising is that students and postdocs should expect fr
 - Have your website always up to date.
 - GS expected to help to teach two times. The time commitment to teaching duties should not impact research more, and students may not allocate more than one-course load.
 
-## 4. Expectations for Year 5 of Ph.D. (GS):
+## 4. Year 5 of Ph.D. (GS):
 - Expect to defend.
 - Submit plan for the dissertation by October-November to discuss with me
 - Submit the plan to finish up chapters/papers
