@@ -1,8 +1,53 @@
+me/I refers to Marine.
+GM refers to group members.
+GS refers to graduate students.
+The US refers to undergraduate students.
+PR refers to postdoc researchers.
+
 
 # My philosophy
 I welcome everyone in the group. My selection criteria are based mainly on the student motivation, passion for the field, and ability to learn new concepts. In particular, I expect students who are coming from prestigious universities to have high academic standards. For students coming from underserved backgrounds, I seek those demonstrating their ability to grasp new concepts and learn how to code. I actively pay attention to students coming from underrepresented groups.
 My overall philosophy of advising is that students and postdocs should expect from me academic advising, career strategic planning, scientific communication advising, work&life balance discussions, 100% financial and computational support, and not the least, a friendship! And I am an optimist!
 
+
+
+# Academic activities for everyone
+- A typical year is between 2-4 conferences or workshops (AGU/SSA/SCEC/EGU or other domestic national meetings like SEG + workshop/summer school) that I will cover fully. Contact group admin for reservation and booking to avoid spending upfront. I follow Federal and UW guidelines for spending.
+- GS/PR are expected to attend every weekly department colloquium seminar.
+- GS/PR/US are expected to attend every geophysical seminar or seismolunch.
+- GS/PR are expected to meet one-on-one with every speaker that the group invites.
+- GS/PR/US are expected to attend the weekly group seminar and participate with at least one question per meeting and one presentation per semester.
+- GS/PR expect to be offered opportunities to write proposals or grant to support research. This is purely voluntary! I recommend at least one chance during the Ph.D. and postdoc for the experience.
+- If a recommended academic activity feels like too much work or a burden, the US/GS/PR is expected to communicate this in advance to me, and we can easily cancel attendance.
+- GS/US/PR and I are expected to practice at least a one-time presentation in front of the group.
+- GS/US/PR/I are expected to communicate on a weekly basis, except during vacation time.
+
+
+# Productivity, time management, vacation (paid time off)
+Your productivity is measured by the quality and submission timeline of the papers.
+- Expect a Ph.D. to be about three papers with flexible size and timeline.
+- A normal year vacation is two weeks for the winter holidays, one+ week around spring break, 2-3 weeks in the summer, and long holidays. It’s flexible, of course, completely depends on productivity and can be discussed with me. 
+- A summer internship or visiting scholar opportunities may come available. In the case the GS is interested, the GS and I will discuss the plan in relation to the progress of the Ph.D. dissertation.
+- When classes are not in session and there are no holidays, I expect each group member to work on research full time unless vacation was planned.
+- A full-time week is five days, 35-40 hours a week. 
+- If you work remotely for at least two weeks, check in with me on a weekly basis via skype/zoom, whatever.
+- Outside activities (including outreach) are important to develop leadership skills. They are on a voluntary basis. If productivity goes down, GS/PR and I will discuss time management so that the activities do not impact research.
+
+
+# Communication
+GS/US/PR can expect to hear back from me within 24 hours (including during travel time).
+- I expect to meet once a week with each GS/US/PR for one hour:
+   * The group member will take notes during the meeting and save them into the member's Gdrive on the uwquake drive.
+   * Each meeting will proceed as follow: 1) start with a few minutes of wrap up from the previous meetings based on the notes, 2) discuss time spent to address them (or not!), 3) bring up issues to resolve as a team, 4) make a list of things to do next.
+- I expect the GS/US/PR to communicate with me if there is any logistical need, mentoring need, and on whether a (disclosed or undisclosed) life event will affect productivity.
+- When my door is open, feel free to come in.
+- I will respond to emails sporadically over the weekend; there is no expectation to respond to emails over the weekend.
+- If there is an urgent communication that needs to happen over the weekend, I will respond.
+- Off business hours conversations (phone/email/slack) are voluntary, based on my availability, and up to GS/US/PR to decide the frequency of such interaction.
+- I like having shared slides on Google Docs to keep track of progress. For every meeting with US/GS/PR, prepare a few slides with figures.
+- Expect me to look at your code for mutual learning.
+- I will be writing letters of recommendation for everyone. US/GS/PR have to communicate the date at which the letter is due, with at least a 2-week notice.
+- **meetings**
 
 
 
@@ -38,42 +83,12 @@ My overall philosophy of advising is that students and postdocs should expect fr
 - Submit the plan to finish up chapters/papers
 - Defend!
 
-# Academic activities for everyone
-- A typical year is between 2-4 conferences or workshops (AGU/SSA/SCEC/EGU or other domestic national meetings like SEG + workshop/summer school) that I will cover fully. Contact group admin for reservation and booking to avoid spending upfront. I follow Federal and UW guidelines for spending.
-- GS/PR are expected to attend every weekly department colloquium seminar.
-- GS/PR/US are expected to attend every geophysical seminar or seismolunch.
-- GS/PR are expected to meet one-on-one with every speaker that the group invites.
-- GS/PR/US are expected to attend the weekly group seminar and participate with at least one question per meeting and one presentation per semester.
-- GS/PR expect to be offered opportunities to write proposals or grant to support research. This is purely voluntary! I recommend at least one chance during the Ph.D. and postdoc for the experience.
-- If a recommended academic activity feels like too much work or a burden, the US/GS/PR is expected to communicate this in advance to me, and we can easily cancel attendance.
-- GS/US/PR and I are expected to practice at least a one-time presentation in front of the group.
-- GS/US/PR/I are expected to communicate on a weekly basis, except during vacation time.
-
-
-# Productivity, time management, vacation (paid time off)
-Your productivity is measured by the quality and submission timeline of the papers.
-- Expect a Ph.D. to be about three papers with flexible size and timeline.
-- A normal year vacation is two weeks for the winter holidays, one+ week around spring break, 2-3 weeks in the summer, and long holidays. It’s flexible, of course, completely depends on productivity and can be discussed with me. 
-- A summer internship or visiting scholar opportunities may come available. In the case the GS is interested, the GS and I will discuss the plan in relation to the progress of the Ph.D. dissertation.
-- When classes are not in session and there are no holidays, I expect each group member to work on research full time unless vacation was planned.
-- A full-time week is five days, 35-40 hours a week. 
-- If you work remotely for at least two weeks, check in with me on a weekly basis via skype/zoom, whatever.
-- Outside activities (including outreach) are important to develop leadership skills. They are on a voluntary basis. If productivity goes down, GS/PR and I will discuss time management so that the activities do not impact research.
-
-
-# ommunication:
-GS/US/PR can expect to hear back from me within 24 hours (including during travel time).
-- I expect to meet once a week with each GS/US/PR for one hour:
-   * The group member will take notes during the meeting and save them into the member's Gdrive on the uwquake drive.
-   * Each meeting will proceed as follow: 1) start with a few minutes of wrap up from the previous meetings based on the notes, 2) discuss time spent to address them (or not!), 3) bring up issues to resolve as a team, 4) make a list of things to do next.
-- I expect the GS/US/PR to communicate with me if there is any logistical need, mentoring need, and on whether a (disclosed or undisclosed) life event will affect productivity.
-- When my door is open, feel free to come in.
-- I will respond to emails sporadically over the weekend; there is no expectation to respond to emails over the weekend.
-- If there is an urgent communication that needs to happen over the weekend, I will respond.
-- Off business hours conversations (phone/email/slack) are voluntary, based on my availability, and up to GS/US/PR to decide the frequency of such interaction.
-- I like having shared slides on Google Docs to keep track of progress. For every meeting with US/GS/PR, prepare a few slides with figures.
-- Expect me to look at your code for mutual learning.
-- I will be writing letters of recommendation for everyone. US/GS/PR have to communicate the date at which the letter is due, with at least a 2-week notice.
-- **meetings**
-
-
+# Expectations specific to postdocs
+PR is expected to receive mentorship from me, which includes: proposal writing, scientific writing, mentoring opportunities for group members GSs and temporary US researchers, career advising, work&life balance mentoring.
+- If the salary comes from a specific grant, I expect to do a substantial part of the proposal and free to do whatever once this is accomplished.
+- If the PR is funded out of a fellowship (their own or Marine’s), then there is more flexibility in topics.
+- I expect an average of 1 paper per year with PR as the first author, with the knowledge that i) building tools takes time, ii) data collection takes time. E.g., it can be two papers year 2, or 1 paper year 1 and 1 paper year 2.
+- I expect the first six months to be about learning new tools/skills/knowledge in the field. By six months, PR and I will sit and write a plan for the 1.5 years left for research (knowing that deviations from the plan are totally OK).
+- PR can expect that I will be seeking out other opportunities for the PR, namely recommend them for seminars, write recommendation letters for job applications.
+- I will cover expenses for the first conference after the appointment, provided that I am co-author of your presentation.
+- I will cover expenses for any publications that need funding after the appointment and where I am a co-author.
