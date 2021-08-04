@@ -1,6 +1,6 @@
 ## Project
 - Each project should start with a github, an informative readme file, a main and a dev branch, both students/postdocs and me as contributors, continuous integration tools.
-Software: 
+## Software: 
 - Each code has to be commented on, tested, and reviewed by one group member (please try!).
 - Test each of the functions to verify that they work—present simple tests in a notebook with bits of data.
 - Codes have to be tested on two different machines, with instructions on installing, running, and testing.
