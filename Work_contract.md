@@ -10,6 +10,18 @@ I welcome everyone in the group. My selection criteria are based mainly on the s
 My overall philosophy of advising is that students and postdocs should expect from me academic advising, career strategic planning, scientific communication advising, work&life balance discussions, 100% financial and computational support, and not the least, a friendship! And I am an optimist!
 
 
+# Group Values
+Our group welcomes everyone, regardless of their race, gender identity, culture.
+We respect each others, we respect others from other academic communities. We respect differences in communication style from peers, we understand that our team is multi-cultural.
+We acknowledge our limited knowledge of others' life experience and respect the differences.
+We acknowledge that we do not know everything!
+We are kind, good listeners, attentive of others' perceptions of our words.
+We welcome criticism from other scientists regarding our work, which we will respond based on data and/or further analysis.
+We love life outside of work, we enjoy things like sports, outdoors, music, beer-making, arts&crafts, playing with our own children.
+We ask for help when we need, within or outside of the group.
+We understand that one needs time off several times a year to recharge the batteries.
+
+
 
 # Academic activities for everyone
 - A typical year is between 2-4 conferences or workshops (AGU/SSA/SCEC/EGU or other domestic national meetings like SEG + workshop/summer school) that I will cover fully. Contact group admin for reservation and booking to avoid spending upfront. I follow Federal and UW guidelines for spending.
