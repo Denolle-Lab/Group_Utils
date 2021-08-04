@@ -29,6 +29,8 @@ We ask for help when we need, within or outside of the group.
 
 We understand that one needs time off several times a year to recharge the batteries.
 
+We speak out and participate in ways to improve our group culture and diversity.
+
 
 
 
