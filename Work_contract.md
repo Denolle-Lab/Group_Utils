@@ -115,3 +115,14 @@ PR is expected to receive mentorship from me, which includes: proposal writing, 
 - PR can expect that I will be seeking out other opportunities for the PR, namely recommend them for seminars, write recommendation letters for job applications.
 - I will cover expenses for the first conference after the appointment, provided that I am co-author of your presentation.
 - I will cover expenses for any publications that need funding after the appointment and where I am a co-author.
+
+
+# When problems arise
+
+Many of us have difficult moments, which we are allowed to share with Marine or seek out external help. 
+
+Do not stay alone in a crisis. 
+
+Here are some UW resources to contact:
+- Call SafeCampus: (206) 685-7233
+- ESS has collected departmental and campus resources to reach out to: https://www.ess.washington.edu/about/reporting_concerns.php
