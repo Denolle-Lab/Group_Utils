@@ -27,7 +27,7 @@ We love life outside of work, we enjoy things like sports, outdoors, music, beer
 
 We ask for help when we need, within or outside of the group.
 
-We understand that one needs time off several times a year to recharge the batteries.
+We understand that one needs time off several times a year to recharge the batteries. Marine takes at least 6 weeks per year.
 
 We speak out and participate in ways to improve our group culture and diversity.
 
@@ -42,12 +42,12 @@ We speak out and participate in ways to improve our group culture and diversity.
 - GS/PR/US are expected to attend the weekly group seminar and participate with at least one question per meeting and one presentation per semester.
 - GS/PR expect to be offered opportunities to write proposals or grant to support research. This is purely voluntary! I recommend at least one chance during the Ph.D. and postdoc for the experience.
 - If a recommended academic activity feels like too much work or a burden, the US/GS/PR is expected to communicate this in advance to me, and we can easily cancel attendance.
-- GS/US/PR and I are expected to practice at least a one-time presentation in front of the group.
-- GS/US/PR/I are expected to communicate on a weekly basis, except during vacation time.
+- GS/US/PR and I are expected to give a practice research talk at least twice a year in front of the group.
+- GS are expected to present once at the grad student organized seminars (if exists).
 
 
 # Productivity, time management, vacation (paid time off)
-Your productivity is measured by the quality and submission timeline of the papers.
+Your productivity is measured by the quality and timeline of the submitted papers.
 - Expect a Ph.D. to be about three papers with flexible size and timeline.
 - A normal year vacation is two weeks for the winter holidays, one+ week around spring break, 2-3 weeks in the summer, and long holidays. It’s flexible, of course, completely depends on productivity and can be discussed with me. 
 - A summer internship or visiting scholar opportunities may come available. In the case the GS is interested, the GS and I will discuss the plan in relation to the progress of the Ph.D. dissertation.
@@ -70,7 +70,6 @@ GS/US/PR can expect to hear back from me within 24 hours (including during trave
 - I like having shared slides on Google Docs to keep track of progress. For every meeting with US/GS/PR, prepare a few slides with figures.
 - Expect me to look at your code for mutual learning.
 - I will be writing letters of recommendation for everyone. US/GS/PR have to communicate the date at which the letter is due, with at least a 2-week notice.
-- **meetings**
 
 
 
