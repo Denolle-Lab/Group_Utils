@@ -6,7 +6,7 @@ This repository is a central point of reference for resources, documents, and gu
 - [Pre- and On-boarding](onboarding.md) for prospective and new group members.
 - [Working Contract](Work_contract.md)
 - [Open-Science Policies](open-science.md)
-- Conference presentation guidelines
+- [Conference presentation guidelines](presentations-guidelines.md)
 - Manuscript guidelines
 - Cookbooks and Tips for seismic data processing
 - [Lab Computing Resources](https://docs.google.com/document/d/1Fyvhlu571cTs91fy183zgDI97wUhUUbc0XKLYOJtmPY/edit#)
