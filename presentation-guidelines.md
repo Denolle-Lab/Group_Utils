@@ -30,5 +30,8 @@ Group members are encouraged to present in front of other non-seismologist peers
 
 
 ## Attending a conference
-- Conferences serve two purposes: {\u dissemination} of your work and social networking. Withou in person, you remove the second but equally important element that early career members need.
-- 
+- Conferences serve two purposes: dissemination of your work and social networking. Withou in person, you remove the second but equally important element that early career members need.
+- Email potential postdoc supervisor about your upcoming presentation, you may even suggest to meet afterwards. This is how Marine got jobs!
+- Prepare an agenda of the session you want to attend. Be structured but be flexible for changes in your schedule.
+- Social interactions in the evening are encouraged. Be wary that social events that include alcohol may lead to unwanted behavior, either on one's end, or on somebody else' end.
+- Keep track of group members and see how everyone is doing.
