@@ -31,6 +31,8 @@ We understand that one needs time off several times a year to recharge the batte
 
 We speak out and participate in ways to improve our group culture and diversity.
 
+As scientists, we are open to new and old ideas, we do not say "it's not going to work" unless we show it.
+
 
 
 
