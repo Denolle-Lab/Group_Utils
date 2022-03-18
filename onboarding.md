@@ -34,7 +34,7 @@
 # Guidelines to start an undergraduate research experience
 It is **essential** to become comfortable with Shell scripting, version control (GitHub), and some python or Julia. Please go through the following courses from the Software Carpentry:
 - [Shell](https://swcarpentry.github.io/shell-novice/)
-- [Git](https://swcarpentry.github.io/shell-novice/)
+- [Git](https://swcarpentry.github.io/git-novice/)
 - [Python](http://swcarpentry.github.io/python-novice-gapminder/)
 
 
