@@ -30,4 +30,21 @@
 8. Sign up for mailing lists: [IRIS](http://ds.iris.edu/message-center/), sign up for a [SCEC profile](https://www.scec.org/user/register) and sign up to receive emails.
 
 
+
+# Guidelines to start an undergraduate research experience
+It is **essential** to become comfortable with Shell scripting, version control (GitHub), and some python or Julia. Please go through the following courses from the Software Carpentry:
+- [Shell](https://swcarpentry.github.io/shell-novice/)
+- [Git](https://swcarpentry.github.io/shell-novice/)
+- [Python](http://swcarpentry.github.io/python-novice-gapminder/)
+
+
+Then, to learn about handling seismic data, I strongly recommend going through basic seismology tutorials:
+- Please watch this [video](https://www.youtube.com/watch?v=kFwdjfiK4gk) of an introduction to Opbsy.
+- Install Obspy using conda: ```conda install -c conda-forge obspy```
+- [Reading seismograms](https://docs.obspy.org/tutorial/code_snippets/reading_seismograms.html)
+- [Plot waveforms](https://docs.obspy.org/tutorial/code_snippets/waveform_plotting_tutorial.html)
+- [Filter data](https://docs.obspy.org/tutorial/code_snippets/filtering_seismograms.html)
+- [Spectrograms](https://docs.obspy.org/tutorial/code_snippets/plotting_spectrograms.html)
+
+
 credits to Malin Pinsky for his open access group guidelines!
