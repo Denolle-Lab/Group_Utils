@@ -33,9 +33,12 @@
 
 # Guidelines to start an undergraduate research experience
 It is **essential** to become comfortable with Shell scripting, version control (GitHub), and some python or Julia. Please go through the following courses from the Software Carpentry:
-- [Shell](https://swcarpentry.github.io/shell-novice/)
-- [Git](https://swcarpentry.github.io/git-novice/)
-- [Python](http://swcarpentry.github.io/python-novice-gapminder/)
+- [Shell](https://swcarpentry.github.io/shell-novice/): basic file and project management
+- [Git](https://swcarpentry.github.io/git-novice/): code version control 
+- [Python](http://swcarpentry.github.io/python-novice-gapminder/): coding fundamentals
+- [Latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes): Manuscript editing preferred scripting language
+- [Jypyter Notebooks](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/jupyter-python/get-started-with-jupyter-notebook-for-python/): jupyter notebook introduction
+- [Conda, Mamba, environment](https://astrobiomike.github.io/unix/conda-intro): nice intro from a biologist on the basics of conda, mamba, and creating a computing environment.
 
 
 Then, to learn about handling seismic data, I strongly recommend going through basic seismology tutorials:
