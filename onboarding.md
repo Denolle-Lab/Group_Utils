@@ -25,7 +25,7 @@
 5. Copy, fill out, rename (yourname_bio.docx) the [google doc](https://docs.google.com/document/d/1l1w47Ga_eAaSgGNkMaOQZW2ms9QPDnBx5jgjdtOEzYg/edit) with your contact information and brief bio to be shared among group members and used for the group website.
 6. connect to the Denolle Lab Gdrive:
   * Click the "Shared with Me" link on the left.
-  * Right click on the Pinsky Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
+  * Right click on the UWquake Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
 7. Read, comment, and agree upon the working contract
 8. Sign up for mailing lists: [IRIS](http://ds.iris.edu/message-center/), sign up for a [SCEC profile](https://www.scec.org/user/register) and sign up to receive emails.
 
