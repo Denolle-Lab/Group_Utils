@@ -22,6 +22,11 @@ Then, to learn about handling seismic data, I particularly recommend going throu
 - [Spectrograms](https://docs.obspy.org/tutorial/code_snippets/plotting_spectrograms.html)
 
 
+More elaborate and useful tutorials:
+- [Practice downloading and plotting](https://krischer.github.io/seismo_live_build/html/ObsPy/07_Basic_Processing_Exercise_solution_wrapper.html)
+- [Practice looking at earthquake](https://krischer.github.io/seismo_live_build/html/ObsPy/08_Exercise__2008_MtCarmel_Earthquake_and_Aftershock_Series_solution_wrapper.html)
+
+
   
 
 - Video tutorials:
