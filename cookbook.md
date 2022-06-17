@@ -13,7 +13,7 @@ To undergraduate researchers: It is **essential** to become comfortable with She
 - [Conda, Mamba, environment](https://astrobiomike.github.io/unix/conda-intro): nice intro from a biologist on the basics of conda, mamba, and creating a computing environment.
 
 
-Then, to learn about handling seismic data, I strongly recommend going through basic seismology tutorials:
+Then, to learn about handling seismic data, I particularly recommend going through basic seismology tutorials:
 - Please watch this [video](https://www.youtube.com/watch?v=kFwdjfiK4gk) of an introduction to Opbsy.
 - Install Obspy using conda: ```conda install -c conda-forge obspy```
 - [Reading seismograms](https://docs.obspy.org/tutorial/code_snippets/reading_seismograms.html)
@@ -22,9 +22,7 @@ Then, to learn about handling seismic data, I strongly recommend going through b
 - [Spectrograms](https://docs.obspy.org/tutorial/code_snippets/plotting_spectrograms.html)
 
 
-
-- Notebooks:
   
 
-- Video tutorials
-    - https://www.youtube.com/watch?v=0hGoK1SdBm4
+- Video tutorials:
+    - https://www.youtube.com/watch?v=0hGoK1SdBm4: get started on AWS-EC2 (by our own Julian Schmidt!)
