@@ -8,7 +8,7 @@ This repository is a central point of reference for resources, documents, and gu
 - [Open-Science Policies](open-science.md)
 - [Conference presentation guidelines](presentation-guidelines.md)
 - Manuscript guidelines
-- [Coobook](cookbook.md) to get startaed in pracical seismology
+- [Coobook](cookbook.md) to get started in pracical seismology
 - [Lab Computing Resources](https://docs.google.com/document/d/1Fyvhlu571cTs91fy183zgDI97wUhUUbc0XKLYOJtmPY/edit#)
 
 
