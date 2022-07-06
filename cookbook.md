@@ -22,7 +22,7 @@ To undergraduate researchers: It is **essential** to become comfortable with She
 - [Plot waveforms](https://docs.obspy.org/tutorial/code_snippets/waveform_plotting_tutorial.html)
 - [Filter data](https://docs.obspy.org/tutorial/code_snippets/filtering_seismograms.html)
 - [Spectrograms](https://docs.obspy.org/tutorial/code_snippets/plotting_spectrograms.html)
-
+- [Focal mechanism](https://www.ocean.washington.edu/courses/oc410/reading/Focal_mechanism_primer.pdf)
 
 ## Intermediate Seismology
 - [Practice downloading and plotting](https://krischer.github.io/seismo_live_build/html/ObsPy/07_Basic_Processing_Exercise_solution_wrapper.html)
