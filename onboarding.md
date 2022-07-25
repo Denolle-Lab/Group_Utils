@@ -28,6 +28,7 @@
   * Right click on the UWquake Lab folder and select Add to My Drive. This will not affect the amount of storage available in your google drive.
 7. Read, comment, and agree upon the working contract
 8. Sign up for mailing lists: [IRIS](http://ds.iris.edu/message-center/), sign up for a [SCEC profile](https://www.scec.org/user/register) and sign up to receive emails.
+9. Get accounts to the group machines: email Marine to get set up (soon we will email ESSComp to get an account)
 
 
 
