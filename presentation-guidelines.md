@@ -27,6 +27,11 @@ Group members are encouraged to present in front of other non-seismologist peers
 ## Presentations
 - Make a poster using Illustrator or Powerpoint or Google slides so that Marine can edit. Do not submit before Marine gets to view it. Contact other co-authors for review before printing/submitting.
 - Make a oral presentation on Powerpoint or Google slides. Powerpoint has great recording tools, please record a video to practice and to keep a version to post on Youtube.
+- **Tips for poster presentations**:
+  - Prepare a two-min lightning presentation, recording this on a youtube video is very useful
+  - Prepare 2 versions of your poster walk-through:
+        * For non-specialist: 5 min chat that dilutes details, bigger impacts
+        * For specialists: 15 min chat that spend times on the methods (the specialists know about the impact).
 
 
 ## Attending a conference
