@@ -30,8 +30,8 @@ Group members are encouraged to present in front of other non-seismologist peers
 - **Tips for poster presentations**:
   - Prepare a two-min lightning presentation, recording this on a youtube video is very useful
   - Prepare 2 versions of your poster walk-through:
-        * For non-specialist: 5 min chat that dilutes details, bigger impacts
-        * For specialists: 15 min chat that spend times on the methods (the specialists know about the impact).
+    * For non-specialist: 5 min chat that dilutes details, bigger impacts
+    * For specialists: 15 min chat that spend times on the methods (the specialists know about the impact).
 
 
 ## Attending a conference
