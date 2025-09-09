@@ -1,7 +1,7 @@
 me/I refers to Marine.
 GM refers to group members.
 GS refers to graduate students.
-The US refers to undergraduate students.
+US refers to undergraduate students.
 PR refers to postdoc researchers.
 
 
@@ -11,7 +11,7 @@ My overall philosophy of advising is that students and postdocs should expect fr
 
 
 # Group Values
-Our group welcomes everyone, regardless of their race, gender identity, culture.
+Our group welcomes everyone, regardless of their race, gender identity, culture, nationality, or background.
 
 We respect each others, we respect others from other academic communities. We respect differences in communication style from peers, we understand that our team is multi-cultural.
 
@@ -25,7 +25,7 @@ We welcome criticism from other scientists regarding our work, which we will res
 
 We love life outside of work, we enjoy things like sports, outdoors, music, beer-making, arts&crafts, playing with our own children.
 
-We ask for help when we need, within or outside of the group.
+We ask for help when we need it, within or outside of the group, and we ask questions when we do not understand.
 
 We understand that one needs time off several times a year to recharge the batteries. Marine takes at least 6 weeks per year.
 
