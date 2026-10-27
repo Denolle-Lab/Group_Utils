@@ -20,6 +20,7 @@
 
 # To do list for incoming group members
 1. Make a GitHub account and join the Github https://github.com/Denolle-Lab/ organization by asking Marine to add you as a member.
+2. Read the [open-science policies](open-science.md) and browse [lab-skills](https://github.com/Denolle-Lab/lab-skills). Your first project starts as a repository in the organization.
 3. Sync the uwquake google calendar to your google calendar.
 4. Join the slack workspace uwquake.slack.com
 5. Copy, fill out, rename (yourname_bio.docx) the [google doc](https://docs.google.com/document/d/1l1w47Ga_eAaSgGNkMaOQZW2ms9QPDnBx5jgjdtOEzYg/edit) with your contact information and brief bio to be shared among group members and used for the group website.

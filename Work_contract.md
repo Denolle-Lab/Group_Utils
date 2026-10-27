@@ -13,6 +13,10 @@ My overall philosophy of advising is that students and postdocs should expect fr
 # Group Values
 Our group welcomes everyone, regardless of their race, gender identity, culture, nationality, or background.
 
+We do research through computing. Every step, from data download to the final figure, is code under version control. Computing and agentic pipelines are research methods we learn, test and critique, and we stay accountable for every line an agent writes for us.
+
+Openness is our starting contract. Code, data and workflows are public and reproducible from the first commit, so that anyone in or outside the group can rerun and check our results.
+
 We respect each others, we respect others from other academic communities. We respect differences in communication style from peers, we understand that our team is multi-cultural.
 
 We acknowledge our limited knowledge of others' life experience and respect the differences.
