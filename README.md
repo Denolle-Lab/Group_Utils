@@ -2,6 +2,9 @@
 
 We run the entire research practice through computational tools and openness. Computing is how we do science, from data to figures to agentic pipelines. Openness is the contract we start from: our work is public and reproducible by default.
 
+- Group website: [denolle-lab.github.io](https://denolle-lab.github.io/)
+- **Our software:** [awesome-denolle-lab](https://github.com/Denolle-Lab/awesome-denolle-lab), the curated list of lab packages, workflows and reproducibility repositories
+
 This repository is a central point of reference for resources, documents, and guidance for the group members of the Denolle group at University of Washington. You will find several key documents:
 
 - [Pre- and On-boarding](onboarding.md) for prospective and new group members.
